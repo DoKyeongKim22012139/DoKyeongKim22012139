@@ -13,10 +13,9 @@ Unity에 관심이 있습니다.
 </div>
 
 ***
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoKyeongKim22012139&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](http://github-readme-stats.vercel.app/api?username=DoKyeongKim22012139&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoKyeongKim22012139&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=DoKyeongKim22012139&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
