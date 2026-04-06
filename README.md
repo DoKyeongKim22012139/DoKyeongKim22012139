@@ -1,17 +1,25 @@
-## Hi there 👋
-
 
 ## Introduction
 안녕하세요.
-게임을 좋아합니다. 관심 있는 분야는 Unity입니다.
+Unity에 관심이 있습니다.
 
+***
 
-## Tech Stack
+## 🛠️ Tech Stack
 <div align=left>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
+
+***
+[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokyeongKim22012139)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokyeongKim22012139&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **DoKyeongKim22012139/DoKyeongKim22012139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
