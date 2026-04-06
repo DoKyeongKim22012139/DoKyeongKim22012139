@@ -3,7 +3,7 @@
 
 ## Introduction
 안녕하세요.
-게임을 좋아합니다.
+게임을 좋아합니다. 관심 있는 분야는 Unity입니다.
 <!--
 **DoKyeongKim22012139/DoKyeongKim22012139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
