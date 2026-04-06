@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+
+## Introduction
+안녕하세요.
+게임을 좋아합니다.
 <!--
 **DoKyeongKim22012139/DoKyeongKim22012139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Introduction
-안녕하세요.
-게임을 좋아합니다.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
