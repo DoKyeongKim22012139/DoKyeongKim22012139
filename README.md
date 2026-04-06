@@ -13,9 +13,9 @@ Unity에 관심이 있습니다.
 </div>
 
 ***
-[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokyeongKim22012139)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoKyeongKim22012139&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokyeongKim22012139&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoKyeongKim22012139&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
